@@ -11,6 +11,7 @@ Saving as `gif` format seems to restrict color pallet and lose the transparency 
 In the following example, we have a gradient that when we save as `gif` output, we can notice that it becomes striped and lose the transparency.
 
 Original image (saved as `png`):
+
 ![Original](output.png)
 
 Git format:
