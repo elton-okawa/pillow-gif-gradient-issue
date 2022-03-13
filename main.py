@@ -18,11 +18,13 @@ def main():
   # Save as png
   img.save(
     fp=Path("./output.png"),
+    format='png',
   )
 
   # Save as gif
   img.save(
     fp=Path("./output.gif"),
+    format='gif',
     save_all=True,
     duration=5,
     optimize=False,
